@@ -1,1 +1,9 @@
+-----------------------------------------------------------
+Commandes pour browser Sync
+
+cd C:\Users\Boulmane\PhpstormProjects\DepotsGitHub\module-n1-solutions
 browser-sync start --server --files "*"
+-----------------------------------------------------------
+Sites Web Utiles
+
+https://jsfiddle.net/
